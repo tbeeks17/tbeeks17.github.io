@@ -22,7 +22,7 @@ h1 {
     width: 300px;
     height: 300px;
     margin: 10px;
-    border: 2px solid rgb(252, 252, 252); /* choose a color */
+    border: 2px solid rgb(17, 17, 17); /* choose a color */
     display: block;
     margin: auto;
 }
