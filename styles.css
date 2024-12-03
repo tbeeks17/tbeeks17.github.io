@@ -15,7 +15,7 @@ h1 {
     width: 30%;
     margin: 10px;
     padding: 20px 10px;
-    background: white; /* pick a color */
+    background: rgb(0, 0, 0); /* pick a color */
     border-radius: 25%;
 }
 .project img{
